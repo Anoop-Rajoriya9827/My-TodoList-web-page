@@ -1,0 +1,94 @@
+.h{
+  display: none;
+}
+
+
+@media (max-width: 750px) {
+
+
+.head{
+  padding: 0px 0px;
+}
+
+.font-s1{
+  font-size: 4vw;
+}
+.font-s2{
+  font-size: 3.5vw;
+}
+.font-s3{
+  font-size: 3vw;
+}
+
+.inp{
+  width: 70%;
+}
+#title{
+  width: 50%;
+  height: 60%;
+}
+
+#text{
+  width: 55%;
+  height: 80%;
+}
+.inp button{
+  height: 25px;
+  width: 80px;
+  }
+}
+
+@media (max-width: 400px) {
+  
+  
+  
+  .s1 {
+    height: 600px;
+    width: 100%;
+    border: unset;
+}
+
+.s1 h1{
+  margin-bottom: 15px;
+}
+
+.navbx{
+  width: 40%;
+}
+.navbx button{
+  width: 70%;
+}
+.databx{
+  width: 60%;
+
+}
+
+.div{
+  padding: 5px 0px;
+  margin: unset;
+}
+
+.head{
+  height: 7%;
+  width: 100%;
+  padding: 0px 0px;
+}
+.font-s1{
+  font-size: 7vw;
+}
+.font-s2{
+  font-size: 6vw;
+}
+.font-s3{
+  font-size: 5.5vw;
+}
+
+.t2{
+  font-size: 5.7vw;
+}
+
+.navbx button:hover{
+  width: 68%;
+  background-color: rgba(222, 225, 227, 0.646);
+}
+}
